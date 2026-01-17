@@ -61,5 +61,6 @@ https://github.com/RoboCupatHomeSim/ros2-competition-msgs
 3. Click the Play button at the top of the Unity editor.
 
 ## Task Creation
+A VR device is required to generate the tasks.  
 Please see [wiki page](https://github.com/RoboCupatHomeSim/interactive-cleanup-unity2/wiki/AdvancedExecutionProcedures) for more details.  
 
