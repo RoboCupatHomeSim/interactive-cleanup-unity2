@@ -1,3 +1,7 @@
+> [!NOTE]
+> This repository is for ROS 2.
+
+
 # Interactive Cleanup Project
 
 This is a Unity project for the Interactive Cleanup task.
