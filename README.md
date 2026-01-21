@@ -66,5 +66,5 @@ https://github.com/RoboCupatHomeSim/ros2-competition-msgs
 
 ## Task Creation
 A VR device is required to generate the tasks.  
-Please see [wiki page](https://github.com/RoboCupatHomeSim/interactive-cleanup-unity2/wiki/AdvancedExecutionProcedures) for more details.  
+Please see [wiki page](https://github.com/RoboCupatHomeSim/interactive-cleanup-unity2/wiki) for more details.  
 
