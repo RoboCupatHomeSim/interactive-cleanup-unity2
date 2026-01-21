@@ -53,7 +53,7 @@ SIGVerse window will be opened.
 1. Click [Build].
 1. Select the "Build" folder.  
 The build will start.
-1. Copy the "TTS" folder under the "Build" folder.
+1. Copy the "TTS" folder into the "Build" folder.
 
 ## How to Run
 
