@@ -6,6 +6,9 @@
 
 This is a Unity project for the Interactive Cleanup task.
 
+In this task, the robot grasps an object located at a place pointed to by a human avatar, and then delivers it to another place the avatar points to.  
+This task focuses on recognizing human actions.
+
 See also [wiki page](https://github.com/RoboCupatHomeSim/interactive-cleanup-unity2/wiki).
 
 ## Prerequisites
