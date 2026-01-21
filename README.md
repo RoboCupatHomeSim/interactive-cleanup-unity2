@@ -17,6 +17,10 @@ Please prepare a common unitypackage in advance.
 For details on how to create the common unitypackage, please see the introduction in the following repository.  
 https://github.com/RoboCupatHomeSim/common-unity2
 
+Please prepare Text-to-Speech DLLs.
+For details, please see the following repository.
+https://github.com/RoboCupatHomeSim/console-simple-tts
+
 ## How to Build
 
 ### Import the Common Unitypackage
